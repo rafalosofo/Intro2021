@@ -1,0 +1,28 @@
+ 
+  Introdução à Informática
+Exercício “Prática Comparativa”
+Objetivo
+Fazer uma análise comparativa para resolver o problema de Matilda.
+ Micro Desafios
+
+Na família somos três irmãos e nosso pai, que está viajando para o exterior; nos enviou três processadores de presente para as nossas diferentes necessidades: eu (Matilda) pedi a ele um para poder jogar o tão esperado Cyberpunk 2077, meu pequeno irmão, Marcelo, por outro lado, pediu apenas um para rodar a suíte Office 2019 e, por fim, meu irmão mais velho, Carlos, encomendou-lhe um para poder fazer edições de vídeo em um programa chamado Adobe After Effects.
+
+Ficamos confusos, pois nosso pai não colocou rótulos que identificam os donos dos processadores.
+
+Nosso pai nos enviou os seguintes modelos:
+
+Intel Core i3-3217UE 
+Intel Core i5-6360U 
+Intel Core i7-4790 
+
+
+Poderia nos ajudar a descobrir de quem é cada processador?
+
+NOME	PROCESSADOR	JUSTIFICATIVA
+Matilda	Intel Core i5-6360U 	O jogo requer processamento mediano, conforme especificado pelo fabricante, um processador intel i5 de terceira geração. Logo o processador em questão é suficiente para performar o jogo.
+Marcelo	Intel Core i3-3217UE 
+1.60 GHZ	Pacote office requer pouca performance de processamento, basta que tenha 1.0GHZ para roda a suíte citada.
+Carlos	Intel Core i7-4790 	O pacote adobe requer performance avançanda, para que a otimização seja regular. Conforme indicação do fabricante, é necessário no mínimo um processador i7 para que a execução do programa alcance seu ponto ideal.
+
+
+
